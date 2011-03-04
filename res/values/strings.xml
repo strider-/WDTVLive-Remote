@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="remote_power">w</string>
+	<string name="remote_right">r</string>
+	<string name="remote_left">l</string>
+	<string name="remote_home">o</string>
+	<string name="remote_up">u</string>
+	<string name="remote_enter">n</string>
+	<string name="remote_down">d</string>
+	<string name="remote_back">T</string>
+	<string name="remote_stop">t</string>
+	<string name="remote_option">G</string>
+	<string name="remote_rewind">H</string>
+	<string name="remote_play_pause">p</string>
+	<string name="remote_forward">I</string>
+	<string name="remote_prev">[</string>
+	<string name="remote_next">]</string>
+	<string name="remote_search">E</string>
+	<string name="remote_eject">X</string>	
+<string name="default_wdtvlive_ip">192.168.1.106</string>
+<string name="default_wdtvlive_user">root</string>
+<string name="default_wdtvlive_password">ragnar0k</string>
+<string name="default_wdtvlive_auto">false</string><string name="app_name">Remote</string>
+
+<color name="remote_label_color">#ffffff</color>
+
+</resources>

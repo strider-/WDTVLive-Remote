@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<CheckBoxPreference android:title="Auto connect on start" android:key="wdtvlive_auto" android:summary="Attempts to connect to WDTV live when the remote is started" android:defaultValue="@string/default_wdtvlive_auto"></CheckBoxPreference><PreferenceCategory android:title="Network"><EditTextPreference android:dialogTitle="WDTV Live IP" android:key="wdtvlive_ip" android:title="WDTV Live IP" android:summary="IP address of the WDTV Live machine" android:defaultValue="@string/default_wdtvlive_ip"></EditTextPreference></PreferenceCategory><PreferenceCategory android:title="Credentials"><EditTextPreference android:dialogTitle="Username" android:key="wdtvlive_user" android:title="Username" android:summary="Username to log into the WDTV Live with" android:defaultValue="@string/default_wdtvlive_user"></EditTextPreference><EditTextPreference android:dialogTitle="Password" android:key="wdtvlive_password" android:title="Password" android:summary="Password for the WDTV Live user" android:defaultValue="@string/default_wdtvlive_password" android:password="true"></EditTextPreference></PreferenceCategory>
+
+
+
+
+
+
+</PreferenceScreen>
